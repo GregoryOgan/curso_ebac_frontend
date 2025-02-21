@@ -1,0 +1,17 @@
+#education{
+    
+    background-color: lightgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#education h2{
+    color: blue;
+}
+
+#videogames{
+    background-color: hwb(160 77% 3%);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#videogames h2{
+    color:rgb(119, 0, 255);
+}
